@@ -3,7 +3,7 @@ const chatButton = document.createElement('div');
 chatButton.id = 'chatButton';
 
 const chatImage = document.createElement('img');
-chatImage.src = 'https://i.ibb.co/CBn8f74/Picsart-24-10-27-23-06-37-742.png';
+chatImage.src = 'https://i.ibb.co/p4mMX4C/support.png';
 chatImage.alt = 'Chat with us!';
 chatImage.style.width = '110px';
 chatImage.style.height = '100px';
